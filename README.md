@@ -26,6 +26,12 @@ name is completely arbitrary, it is important to keep that name also on your jQu
 
 and of course this is only an example of usage :)
 
+### Options ###
+
+Rembeber that you can pass any argument you want as a parameter, which you can find them here: [http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html)
+
+### Example of usage ###
+
 You can also make another call within that DOM object preserving options, for example making a call like
 
 	jQuery(function($){
@@ -61,8 +67,6 @@ so you do not always have to reset options again :) This could be useful if you 
 	});
 
 and you're done!
-
-Rembeber that you can pass any argument you want as a parameter, which you can find them here: [http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html](http://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html)
 
 ### License ###
 
