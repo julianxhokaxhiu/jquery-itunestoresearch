@@ -52,7 +52,7 @@ will produce something like
 
 so you do not always have to reset options again :) This could be useful if you setup a "refresh" button, so you'll always need to call this plugin like
 
-jQuery(function($){
+	jQuery(function($){
 		$('#iss-jquery').itunesstoresearch({
 			'callback':function(data){
 				// Your callback logic here
