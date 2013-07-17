@@ -70,4 +70,4 @@ and you're done!
 
 ### License ###
 
-This plugin is licensed as GPLv3 and you can read it in the file "LICENSE" attached with this plugin.
+This plugin is licensed as MIT and you can read it in the file "LICENSE" attached with this plugin.
